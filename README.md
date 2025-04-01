@@ -11,6 +11,7 @@
 - 서비스 URL 정보
   - 매뉴얼 페이지: https://blog.weniv.co.kr/
   - 블로그 페이지(예시): https://weniv.github.io/weniv_blog/
+  - 20250401 현재 블로그 페이지 :https://deaung.github.io/blog/
 
 
 ## 스폰서
